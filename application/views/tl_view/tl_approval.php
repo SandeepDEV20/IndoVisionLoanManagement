@@ -44,7 +44,58 @@
 	
 	<div class="col-md-3">
 				
-        <?php require APPPATH .'/libraries/sidebar.php' ; ?>
+        <ul class="nav flex-column ">
+					<li class="nav-item bg-white rounded" style="border:1px skyblue solid;">
+			              <a class="nav-link" href="#">
+
+			                <span class="fas fa-tachometer-alt">Dashboard</span>
+			              </a>
+			        </li>
+			        <li class="nav-item bg-light rounded" style="margin-top:5px;border:1px solid #D6E9C6;">
+			              <a  class="nav-link text-success" href="">
+					    	Employee Management system <span class="fas fa-plus"></span>
+					    </a> 
+			        </li>
+					  <li class="nav-item bg-light rounded" style="margin-top:5px;border:1px solid #D6E9C6;">
+					    <a  class="nav-link text-success" href="">
+					    	Loan Management system <span class="fas fa-plus"></span>
+					    </a> 
+					  	
+				  		
+					</li>
+					<li class="nav-item bg-light rounded" style="margin-top:5px;border:1px solid #D6E9C6;">
+			              <a  class="nav-link text-success" href="">
+					    	Performance Management system <span class="fas fa-plus"></span>
+					    </a> 
+			        </li>
+			        <li class="nav-item bg-light rounded" style="margin-top:5px;border:1px solid #D6E9C6;">
+			              <a  class="nav-link text-success" href="">
+					    	Attendance Management system <span class="fas fa-plus"></span>
+					    </a> 
+			        </li>
+			        <li class="nav-item bg-light rounded" style="margin-top:5px;border:1px solid #D6E9C6;">
+			              <a  class="nav-link text-success" href="">
+					    	Timesheet Management system <span class="fas fa-plus"></span>
+					    </a> 
+			        </li>
+			        <li class="nav-item bg-light rounded" style="margin-top:5px;border:1px solid #D6E9C6;">
+			              <a  class="nav-link text-success" href="">
+					    	Ticket Management system <span class="fas fa-plus"></span>
+					    </a> 
+			        </li>
+			        <li class="nav-item bg-light rounded" style="margin-top:5px;border:1px solid #D6E9C6;">
+			              <a  class="nav-link text-success" href="">
+					    	Asset Management system <span class="fas fa-plus"></span>
+					    </a> 
+			        </li>
+			        <li class="nav-item bg-light rounded" style="margin-top:5px;border:1px solid #D6E9C6;">
+			              <a  class="nav-link text-success" href="">
+					    	Salary Management system <span class="fas fa-plus"></span>
+					    </a> 
+			        </li>
+			        
+						
+				</ul>
   </div>
 	
 	&nbsp;&nbsp;
