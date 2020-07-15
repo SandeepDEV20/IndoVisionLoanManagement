@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Loan lists-Admin Approval</title>
+	<title>Loan Status lists</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
   	
   	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
@@ -57,7 +57,7 @@
 		
 		<div class="conatiner rounded" style="border:1px skyblue solid;">
 			
-		 <h2 class="text-center">Employee Loan Lists</h2><hr>
+		 <h2 class="text-center">Employee Loan Status Lists</h2><hr>
 		 		
 			
         <div class="card border-white ml-auto">

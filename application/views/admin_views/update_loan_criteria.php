@@ -69,7 +69,7 @@
 		
         <div class="card-body">
 		<form method="post" action="<?php echo base_url(); ?>/LoanAdmin/update_loan_criteria">
-			<div class="form-group row">
+			<div class="form-group row" style="display: none;">
 			<label class="col-sm-4 form-control-label">id</label> 
 				<div class="col-sm-8">
 					<input class="form-control" type="number" name="id" id="update_id"
